@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: a9a08fa712227a34898a67da7152efc6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: imp_monster_girl_sprite_by_tsarcube-d3hldkr_0
+    21300002: imp_monster_girl_sprite_by_tsarcube-d3hldkr_1
+    21300004: imp_monster_girl_sprite_by_tsarcube-d3hldkr_2
+    21300006: imp_monster_girl_sprite_by_tsarcube-d3hldkr_3
+    21300008: imp_monster_girl_sprite_by_tsarcube-d3hldkr_4
+    21300010: imp_monster_girl_sprite_by_tsarcube-d3hldkr_5
+    21300012: imp_monster_girl_sprite_by_tsarcube-d3hldkr_6
+    21300014: imp_monster_girl_sprite_by_tsarcube-d3hldkr_7
+    21300016: imp_monster_girl_sprite_by_tsarcube-d3hldkr_8
+    21300018: imp_monster_girl_sprite_by_tsarcube-d3hldkr_9
+    21300020: imp_monster_girl_sprite_by_tsarcube-d3hldkr_10
+    21300022: imp_monster_girl_sprite_by_tsarcube-d3hldkr_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 188
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 188
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 189
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 126
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 125
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 61
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 62
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: imp_monster_girl_sprite_by_tsarcube-d3hldkr_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
