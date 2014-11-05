@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 8d8dc6427ecc4324facf2d5c23f15b1b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38
+    21300002: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_0
+    21300004: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_1
+    21300006: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_2
+    21300008: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_3
+    21300010: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_4
+    21300012: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_5
+    21300014: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_6
+    21300016: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_7
+    21300018: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_8
+    21300020: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_9
+    21300022: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_10
+    21300024: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_11
+    21300026: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_12
+    21300028: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_13
+    21300030: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_14
+    21300032: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_15
+    21300034: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_16
+    21300036: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_17
+    21300038: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_18
+    21300040: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_19
+    21300042: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_20
+    21300044: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_21
+    21300046: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_22
+    21300048: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_23
+    21300050: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_24
+    21300052: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_25
+    21300054: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_26
+    21300056: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_27
+    21300058: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_28
+    21300060: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_29
+    21300062: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_30
+    21300064: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_31
+    21300066: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_32
+    21300068: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_33
+    21300070: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_34
+    21300072: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_35
+    21300074: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_36
+    21300076: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_37
+    21300078: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_38
+    21300080: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_39
+    21300082: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 166
+        width: 96
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 171
+        width: 53
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 231
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 231
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 231
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 231
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 176
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 176
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 176
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 176
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 122
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 122
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 122
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 122
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 69
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 69
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 69
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 69
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 16
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 16
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 16
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 16
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 11
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 16
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 16
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 16
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_36
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 16
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_38
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jake_shine__werewolf_hunter_rpg_sprite_sheet_by_dragonepic94-d5kbv38_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 16
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

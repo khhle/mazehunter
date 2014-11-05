@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 4abbfa58e71386d45945d3886718971e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp
+    21300002: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_0
+    21300004: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_1
+    21300006: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_2
+    21300008: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_3
+    21300010: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_4
+    21300012: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_5
+    21300014: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_6
+    21300016: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_7
+    21300018: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_8
+    21300020: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_9
+    21300022: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_10
+    21300024: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_11
+    21300026: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_12
+    21300028: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_13
+    21300030: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_14
+    21300032: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_15
+    21300034: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_16
+    21300036: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_17
+    21300038: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_18
+    21300040: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_19
+    21300042: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_20
+    21300044: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_21
+    21300046: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_22
+    21300048: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_23
+    21300050: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_24
+    21300052: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_25
+    21300054: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_26
+    21300056: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_27
+    21300058: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_28
+    21300060: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_29
+    21300062: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_30
+    21300064: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_31
+    21300066: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_32
+    21300068: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_33
+    21300070: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_34
+    21300072: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_35
+    21300074: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_36
+    21300076: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_37
+    21300078: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_38
+    21300080: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 154
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 224
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 170
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 170
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 170
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 170
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 122
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 122
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 122
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 122
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 70
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 70
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 70
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 70
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_29
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_31
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 22
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alice_shine__rpg_sprite_sheet_by_dragonepic94-d5kbvrp_39
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

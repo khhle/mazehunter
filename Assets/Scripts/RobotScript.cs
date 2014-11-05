@@ -12,13 +12,13 @@ public class RobotScript : MonoBehaviour {
 	//private int delay = 0;
 	//private int delayTime = 60;
 	public bool isMove = false;
-	private enemyScript enemy;
+	//private enemyScript enemy;
 	private gameController gameControl;
 	public bool shouldMove = false;
 	// Use this for initialization
 	void Start () {
 		mov =  GetComponent<MoveScript>();
-		enemy = GameObject.Find("enemy").GetComponent<enemyScript>();
+		//enemy = GameObject.Find("enemy").GetComponent<enemyScript>();
 		gameControl = GameObject.Find("controller").GetComponent<gameController>();
 		directionType = 0;
 		mov.direction = new Vector2(0, 0);

@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 783ff6dcd36f99944a354c8e34be6dcd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 14tx7qu2
+    21300002: 14tx7qu2_0
+    21300004: 14tx7qu2_1
+    21300006: 14tx7qu2_2
+    21300008: 14tx7qu2_3
+    21300010: 14tx7qu2_4
+    21300012: 14tx7qu2_5
+    21300014: 14tx7qu2_6
+    21300016: 14tx7qu2_7
+    21300018: 14tx7qu2_8
+    21300020: 14tx7qu2_9
+    21300022: 14tx7qu2_10
+    21300024: 14tx7qu2_11
+    21300026: 14tx7qu2_12
+    21300028: 14tx7qu2_13
+    21300030: 14tx7qu2_14
+    21300032: 14tx7qu2_15
+    21300034: 14tx7qu2_16
+    21300036: 14tx7qu2_17
+    21300038: 14tx7qu2_18
+    21300040: 14tx7qu2_19
+    21300042: 14tx7qu2_20
+    21300044: 14tx7qu2_21
+    21300046: 14tx7qu2_22
+    21300048: 14tx7qu2_23
+    21300050: 14tx7qu2_24
+    21300052: 14tx7qu2_25
+    21300054: 14tx7qu2_26
+    21300056: 14tx7qu2_27
+    21300058: 14tx7qu2_28
+    21300060: 14tx7qu2_29
+    21300062: 14tx7qu2_30
+    21300064: 14tx7qu2_31
+    21300066: 14tx7qu2_32
+    21300068: 14tx7qu2_33
+    21300070: 14tx7qu2_34
+    21300072: 14tx7qu2_35
+    21300074: 14tx7qu2_36
+    21300076: 14tx7qu2_37
+    21300078: 14tx7qu2_38
+    21300080: 14tx7qu2_39
+    21300082: 14tx7qu2_40
+    21300084: 14tx7qu2_41
+    21300086: 14tx7qu2_42
+    21300088: 14tx7qu2_43
+    21300090: 14tx7qu2_44
+    21300092: 14tx7qu2_45
+    21300094: 14tx7qu2_46
+    21300096: 14tx7qu2_47
+    21300098: 14tx7qu2_48
+    21300100: 14tx7qu2_49
+    21300102: 14tx7qu2_50
+    21300104: 14tx7qu2_51
+    21300106: 14tx7qu2_52
+    21300108: 14tx7qu2_53
+    21300110: 14tx7qu2_54
+    21300112: 14tx7qu2_55
+    21300114: 14tx7qu2_56
+    21300116: 14tx7qu2_57
+    21300118: 14tx7qu2_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 14tx7qu2_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 192
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 193
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 193
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 195
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 223
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 225
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 191
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 191
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 191
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 200
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 191
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 198
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 129
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 168
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 159
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 166
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 130
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_24
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 133
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 130
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_26
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 135
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 128
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 127
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 65
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 65
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 65
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 66
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 64
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 97
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 98
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 97
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_38
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 64
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_39
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 63
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 66
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_41
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 67
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_42
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 67
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_43
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 67
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 35
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_48
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 35
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 35
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_53
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 4
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_54
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_55
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_56
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 14tx7qu2_58
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

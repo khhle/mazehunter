@@ -25,7 +25,15 @@ public class ObjAnimation : MonoBehaviour {
 		else
 		{
 			enemyScript enemy = GetComponent<enemyScript>();
-			direcction = enemy.directionType;
+
+			if(enemy == null)
+			{
+				int index = (int)(Time.timeSinceLevelLoad * framesPerSecond);
+				index = index % spritesUp.Length;
+				spriteRenderer.sprite = spritesUp [index];
+			}
+			else
+				direcction = enemy.directionType;
 		}
 		//direcction = rob.directionType;
 		if (direcction == 1) {

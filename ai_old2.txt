@@ -1,0 +1,199 @@
+int AI(int directionP,float xP,float yP)
+	{
+		int up = 1;
+		int down = 2;
+		int left = 3;
+		int right = 4;
+		float isLeft ;
+		float isRight ;
+		float yE = this.transform.position.y;
+		float xE = this.transform.position.x;
+		
+		Debug.Log ("~~~~~");
+		
+		//float xP = rob.transform.position.x;
+		//float yP = rob.transform.position.y;
+
+		if (directionP == 1)
+			yP += 1;
+		else if(directionP == 2)
+			yP -= 1;
+		else if(directionP == 3)
+			xP -= 1;
+		else if(directionP == 4)
+			xP += 1;
+						
+
+		//Debug.Log("xP" + xP);
+		xP = (float)Math.Round (xP);
+		yP = (float)Math.Round (yP);;
+		
+		//Debug.Log("xP" + xP);
+		//Debug.Log("xE" + xE);
+		if(xE == xP)
+		{
+			//Debug.Log("=====");
+			float isUp = Mathf.Abs( (yE+1)- yP );
+			float isDown =  Mathf.Abs( (yE-1)- yP );
+			
+			if(isUp < isDown)
+				return up;
+			else
+				return down;
+			
+		}
+		
+		if(yE == yP)
+		{
+			isLeft = Mathf.Abs( (xE-1)- xP );
+			isRight = Mathf.Abs( (xE+1)- xP );
+			
+			if(isLeft < isRight)
+				return left;
+			else
+				return right;
+		}
+
+		isLeft = Mathf.Abs( (xE-1)- xP );
+		isRight = Mathf.Abs( (xE+1)- xP );
+		if(isLeft < isRight)
+			return left;
+		else
+			return right;
+
+		/*
+		if(directionP == up || directionP == down)
+		{
+			float isUp = Mathf.Abs( (yE+1)- yP );
+			float isDown =  Mathf.Abs( (yE-1)- yP );
+			
+			if(isUp < isDown)
+				return up;
+			else
+				return down;
+		}
+		
+		if(directionP == left || directionP == right)
+		{
+			isLeft = Mathf.Abs( (xE-1)- xP );
+			isRight = Mathf.Abs( (xE+1)- xP );
+			
+			if(isLeft < isRight)
+				return left;
+			else
+				return right;
+		}*/
+		
+		
+		return 0;
+		
+	}
+
+	int AI2(int last,int directionP,float xP,float yP)
+	{
+		int up = 1;
+		int down = 2;
+		int left = 3;
+		int right = 4;
+		float isUp ;
+		float isDown ;
+		float isLeft ;
+		float isRight ;
+		float yE = (float)Math.Round(this.transform.position.y);
+		float xE = (float)Math.Round(this.transform.position.x);
+		
+		//float xP = (float)Math.Round(rob.transform.position.x);
+		//float yP = (float)Math.Round(rob.transform.position.y);
+
+		if (directionP == 1)
+			yP += 1;
+		else if(directionP == 2)
+			yP -= 1;
+		else if(directionP == 3)
+			xP -= 1;
+		else if(directionP == 4)
+			xP += 1;
+
+		/*if (last == 1)
+			yE += 1;
+		else if(last == 2)
+			yE -= 1;
+		else if(last == 3)
+			xE -= 1;
+		else if(last == 4)
+			xE += 1;*/
+		
+		//if(yE == yP || xE == xP)
+		//	return last;
+		if(xE == xP)
+		{
+			Debug.Log("=====");
+			isUp = Mathf.Abs( (yE+1)- yP );
+			isDown =  Mathf.Abs( (yE-1)- yP );
+			
+			if(isUp < isDown)
+				return up;
+			else
+				return down;
+			
+		}
+		
+		if(yE == yP)
+		{
+			Debug.Log("****");
+			isLeft = Mathf.Abs( (xE-1)- xP );
+			isRight = Mathf.Abs( (xE+1)- xP );
+			
+			if(isLeft < isRight)
+				return left;
+			else
+				return right;
+		}
+
+
+
+		Debug.Log("+++++");
+
+		isLeft = Mathf.Abs( (xE-1)- xP );
+		isRight = Mathf.Abs( (xE+1)- xP );
+		Debug.Log("E: "+ xE + " P: " + xP);
+		Debug.Log("Left: " + isLeft + " Right: " + isRight);
+		if(isLeft < isRight)
+			return left;
+		else
+			return right;
+
+		Debug.Log("----");
+		//Debug.Log("----");
+		isUp = Mathf.Abs( (yE+1)- yP );
+		isDown =  Mathf.Abs( (yE-1)- yP );
+		if(isUp < isDown)
+			return up;
+		else
+			return down;
+
+		/*if(directionP == up || directionP == down)
+		{
+			float isLeft = Mathf.Abs( (xE-1)- xP );
+			float isRight = Mathf.Abs( (xE+1)- xP );
+			
+			if(isLeft < isRight)
+				return left;
+			else
+				return right;
+		}
+		
+		if(directionP == left || directionP == right)
+		{
+			float isUp = Mathf.Abs( (yE+1)- yP );
+			float isDown =  Mathf.Abs( (yE-1)- yP );
+			
+			if(isUp < isDown)
+				return up;
+			else
+				return down;
+		}*/
+		
+		return 0;
+		
+	}
